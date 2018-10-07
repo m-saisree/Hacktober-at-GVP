@@ -92,7 +92,7 @@ Soon We will be merging all your changes into the master branch of this project.
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-## Self-Promotion
+## Self-Promotions
 
 If you liked this project, star it on [GitHub](https://github.com/GVP-AI-Club/Hacktober-at-GVP).
 Follow [GVP-AI-Club](https://gvp-ai-club.github.io/) on
